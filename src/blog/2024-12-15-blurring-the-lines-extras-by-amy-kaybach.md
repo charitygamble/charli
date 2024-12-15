@@ -9,7 +9,7 @@ tags:
 ---
 <section class="review__info">
 
-<img loading="lazy" src="public/assets/uploads/blurringthelines.webp" alt="Book Cover for Amy Kaybach's Blurring the Lines &amp; Extras" width="199" height="300" align="left">
+<img loading="lazy" src="assets/uploads/blurringthelines.webp" alt="Book Cover for Amy Kaybach's Blurring the Lines &amp; Extras" width="199" height="300" align="left">
 
 <strong>Book:</strong> <em>Blurring the Lines</em><br>
 <strong>Author:</strong> Amy Kaybach<br>
