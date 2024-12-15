@@ -21,17 +21,17 @@ tags:
 <strong>Goodreads Page:</strong> <a href="https://www.goodreads.com/book/show/214045799-blurring-the-lines-extras">Find on Goodreads</a><br>
 <strong>Rating:</strong> &#9733;&#9733;&#9733;&#9733;&#9733;
 
-<p class="review__description">Some day they'll write songs about me...From the outside, the Blind Rebels have it all. They are one of the most popular rock bands in the world. Their albums go platinum. Tickets to their concerts sell out in hours.</p>
+<p class="review__description">Some day they'll write songs about me...From the outside, the Blind Rebels have it all. They are one of the most popular rock bands in the world. Their albums go platinum. Tickets to their concerts sell out in hours.</p><br><br>
 
-<p>Behind the scenes, they are a band hanging on by a thread.</p>
+<p>Behind the scenes, they are a band hanging on by a thread.</p><br><br>
 
-<p>Lead singer Mavrick Slater worries his guitarist and best friend is on a dangerous path to self-destruction.</p>
+<p>Lead singer Mavrick Slater worries his guitarist and best friend is on a dangerous path to self-destruction.</p><br><br>
 
-<p>Guitarist Callum Donogue is tired. Tied of being the one who cares. Tired of the constant touring. Drugs give him an escape.</p>
-<p>Becka wants out of her dismal life in Chicago and to have songs written about her. The only way out she sees is on the arm of a rock star. Any rock star will do.</p>
-<p>Find out the real story of what happened before the Blind Rebels series.</p>
----
-<p>Also included in this book are several extra scenes from the Blind Rebels series.</p>
+<p>Guitarist Callum Donogue is tired. Tied of being the one who cares. Tired of the constant touring. Drugs give him an escape.</p><br><br>
+<p>Becka wants out of her dismal life in Chicago and to have songs written about her. The only way out she sees is on the arm of a rock star. Any rock star will do.</p><br><br>
+<p>Find out the real story of what happened before the Blind Rebels series.</p><br><br>
+---<br><br>
+<p>Also included in this book are several extra scenes from the Blind Rebels series.</p><br><br>
 <p><strong>Content Warning</strong>: Blurring the Lines is a novella meant for adult audiences. Content includes strong language, explicit sexual scenes, cheating, mention of drug and alcohol use, mention of overdose leading to death, and other mature situations.</p>
 
 </section>
