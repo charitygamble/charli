@@ -35,7 +35,7 @@ collections:
         }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
-      - { label: "Date", name: "date", widget: "date", default: "" }
+      - { label: "Date", name: "date", widget: "datetime", default: "" }
       - { label: "Post Body", name: "body", widget: "markdown" }
   - name: "tours" #The name of the collection and should match our posts.json file's tag
     label: "Blog Tours" #The name of the collection on the CMS itself
@@ -51,7 +51,7 @@ collections:
         }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
-      - { label: "Date", name: "date", widget: "date", default: "" }
+      - { label: "Date", name: "date", widget: "datetime", default: "" }
       - { label: "Post Body", name: "body", widget: "markdown" }
   - name: "interviews" #The name of the collection and should match our posts.json file's tag
     label: "Author Interviews" #The name of the collection on the CMS itself
@@ -67,7 +67,7 @@ collections:
         }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
-      - { label: "Date", name: "date", widget: "date", default: "" }
+      - { label: "Date", name: "date", widget: "datetime", default: "" }
       - { label: "Post Body", name: "body", widget: "markdown" }
   - name: "help" #The name of the collection and should match our posts.json file's tag
     label: "Blogging Help" #The name of the collection on the CMS itself
@@ -83,5 +83,5 @@ collections:
         }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
-      - { label: "Date", name: "date", widget: "date", default: "" }
+      - { label: "Date", name: "date", widget: "datetime", default: "" }
       - { label: "Post Body", name: "body", widget: "markdown" }
