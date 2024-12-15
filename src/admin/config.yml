@@ -15,7 +15,7 @@ collections:
           label: "Layout",
           name: "layout",
           widget: "hidden",
-          default: "./src/_includes/article.njk",
+          default: "article.njk",
         }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
@@ -31,7 +31,7 @@ collections:
           label: "Layout",
           name: "layout",
           widget: "hidden",
-          default: "./src/_includes/article.njk",
+          default: "article.njk",
         }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
@@ -47,7 +47,7 @@ collections:
           label: "Layout",
           name: "layout",
           widget: "hidden",
-          default: "./src/_includes/article.njk",
+          default: "article.njk",
         }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
@@ -55,7 +55,7 @@ collections:
       - { label: "Post Body", name: "body", widget: "markdown" }
   - name: "interviews" #The name of the collection and should match our posts.json file's tag
     label: "Author Interviews" #The name of the collection on the CMS itself
-    folder: "./src/interviews" #The folder that our blog posts will be loaded from and saved to
+    folder: "interviews" #The folder that our blog posts will be loaded from and saved to
     create: true #Tells the CMS that new posts can be created
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" #this sets the URL for the post
     fields:
@@ -63,7 +63,7 @@ collections:
           label: "Layout",
           name: "layout",
           widget: "hidden",
-          default: "./src/_includes/article.njk",
+          default: "article.njk",
         }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
@@ -79,7 +79,7 @@ collections:
           label: "Layout",
           name: "layout",
           widget: "hidden",
-          default: "./src/_includes/article.njk",
+          default: "article.njk",
         }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
