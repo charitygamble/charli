@@ -11,15 +11,9 @@ module.exports = function(eleventyConfig) {
         return DateTime.fromJSDate(dateObj).toLocaleString(DateTime.DATE_MED);
     });
 
-    eleventyConfig.addCollection("posts", async (collection) =>
-    collection.getFilteredByGlob("./src/posts/**/*").reduce(
-        (map, i) => ({
-            ...map,
-            [i.data.type]: [...(map[i.data.type] ?? []), i],
-        }),
-        {}
-    )
-);
+    eleventyConfig.addCollection("reviews", async (collectionsApi) => {
+        return collectionsApi.getAll();
+    });
 
     return {
         dir: {
