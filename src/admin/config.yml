@@ -2,12 +2,12 @@ backend:
   name: git-gateway
   branch: main # Branch to update
 publish_mode: editorial_workflow
-media_folder: "/src/assets/uploads"
+media_folder: "public/assets/uploads"
 public_folder: "/assets/uploads"
 collections:
-  - name: "posts" #The name of the collection and should match our posts.json file's tag
-    label: "Posts" #The name of the collection on the CMS itself
-    folder: "posts" #The folder that our blog posts will be loaded from and saved to
+  - name: "blog" #The name of the collection and should match our posts.json file's tag
+    label: "Blog" #The name of the collection on the CMS itself
+    folder: "src/blog" #The folder that our blog posts will be loaded from and saved to
     create: true #Tells the CMS that new posts can be created
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" #this sets the URL for the post
     fields:
@@ -30,108 +30,4 @@ collections:
           max: 3,
           options: ["posts", "reviews", "interviews", "tours", "help"],
           default: ["posts"],
-        }
-  - name: "reviews" #The name of the collection and should match our posts.json file's tag
-    label: "Reviews" #The name of the collection on the CMS itself
-    folder: "reviews" #The folder that our blog posts will be loaded from and saved to
-    create: true #Tells the CMS that new posts can be created
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" #this sets the URL for the post
-    fields:
-      - {
-          label: "Layout",
-          name: "layout",
-          widget: "hidden",
-          default: "article.njk",
-        }
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Description", name: "description", widget: "string" }
-      - { label: "Date", name: "date", widget: "datetime", default: "" }
-      - { label: "Post Body", name: "body", widget: "markdown" }
-      - {
-          label: "Tags",
-          name: "tags",
-          widget: "select",
-          multiple: true,
-          min: 1,
-          max: 3,
-          options: ["posts", "reviews", "interviews", "tours", "help"],
-          default: ["reviews"],
-        }
-  - name: "tours" #The name of the collection and should match our posts.json file's tag
-    label: "Blog Tours" #The name of the collection on the CMS itself
-    folder: "tours" #The folder that our blog posts will be loaded from and saved to
-    create: true #Tells the CMS that new posts can be created
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" #this sets the URL for the post
-    fields:
-      - {
-          label: "Layout",
-          name: "layout",
-          widget: "hidden",
-          default: "article.njk",
-        }
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Description", name: "description", widget: "string" }
-      - { label: "Date", name: "date", widget: "datetime", default: "" }
-      - { label: "Post Body", name: "body", widget: "markdown" }
-      - {
-          label: "Tags",
-          name: "tags",
-          widget: "select",
-          multiple: true,
-          min: 1,
-          max: 3,
-          options: ["posts", "reviews", "interviews", "tours", "help"],
-          default: ["tours"],
-        }
-  - name: "interviews" #The name of the collection and should match our posts.json file's tag
-    label: "Author Interviews" #The name of the collection on the CMS itself
-    folder: "interviews" #The folder that our blog posts will be loaded from and saved to
-    create: true #Tells the CMS that new posts can be created
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" #this sets the URL for the post
-    fields:
-      - {
-          label: "Layout",
-          name: "layout",
-          widget: "hidden",
-          default: "article.njk",
-        }
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Description", name: "description", widget: "string" }
-      - { label: "Date", name: "date", widget: "datetime", default: "" }
-      - { label: "Post Body", name: "body", widget: "markdown" }
-      - {
-          label: "Tags",
-          name: "tags",
-          widget: "select",
-          multiple: true,
-          min: 1,
-          max: 3,
-          options: ["posts", "reviews", "interviews", "tours", "help"],
-          default: ["interviews"],
-        }
-  - name: "help" #The name of the collection and should match our posts.json file's tag
-    label: "Blogging Help" #The name of the collection on the CMS itself
-    folder: "help" #The folder that our blog posts will be loaded from and saved to
-    create: true #Tells the CMS that new posts can be created
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" #this sets the URL for the post
-    fields:
-      - {
-          label: "Layout",
-          name: "layout",
-          widget: "hidden",
-          default: "article.njk",
-        }
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Description", name: "description", widget: "string" }
-      - { label: "Date", name: "date", widget: "datetime", default: "" }
-      - { label: "Post Body", name: "body", widget: "markdown" }
-      - {
-          label: "Tags",
-          name: "tags",
-          widget: "select",
-          multiple: true,
-          min: 1,
-          max: 3,
-          options: ["posts", "reviews", "interviews", "tours", "help"],
-          default: ["help"],
         }
