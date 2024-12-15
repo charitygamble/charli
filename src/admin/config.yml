@@ -3,7 +3,7 @@ backend:
   branch: main # Branch to update
 publish_mode: editorial_workflow
 media_folder: "public/assets/uploads"
-public_folder: "/assets/uploads"
+public_folder: "assets/uploads"
 collections:
   - name: "blog" #The name of the collection and should match our posts.json file's tag
     label: "Blog" #The name of the collection on the CMS itself

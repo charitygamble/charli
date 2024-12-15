@@ -8,7 +8,7 @@ layout: "base.njk"
 
 <ul role="list" class="articles__list flow">
 
-  {%- for post in collections.post | reverse -%}
+  {%- for post in collections.reviews | reverse -%}
   {% include 'article-snippet.njk' %}
   {%- endfor -%}
 
