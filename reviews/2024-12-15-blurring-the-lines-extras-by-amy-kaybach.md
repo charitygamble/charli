@@ -6,7 +6,7 @@ date: 2024-07-15T22:11:00.000Z
 ---
 <section class="review__info">
 
-<img loading="lazy" class="movie__poster" src="/static/images/book/chasingboogeyman.webp" alt="Book Cover for Chasing the Boogeyman by Richard Chizmar" width="199" height="300" align="left">
+<img loading="lazy" src="/assets/uploads/" alt="Book Cover for Chasing the Boogeyman by Richard Chizmar" width="199" height="300" align="left">
 
 <strong>Book:</strong> <em>Chasing the Boogeyman</em><br>
 <strong>Author:</strong> Richard Chizmar<br>
