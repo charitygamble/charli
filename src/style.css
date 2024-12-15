@@ -385,3 +385,26 @@ section,
   color: var(--clr-neutral-100);
   background-color: var(--clr-neutral-900);
 }
+
+/* Review Stuff */
+
+.review__info img {
+  padding-right: .9375em;
+  padding-left: .9875em;
+  }
+  
+.review__info {
+      border: .0625em solid var(clr-primary-500);
+      background-color: var(clr-primary-200);
+      margin-bottom: 2.5em;
+      min-height: 15.625em;
+      padding-top: .9375em;
+      width: 87%;
+      margin-left: 2.8125em;
+      margin-top: 1.875em;
+  }
+
+.review__description {
+  margin-top: 2.5em;
+  padding-top: 1.5em;
+}
