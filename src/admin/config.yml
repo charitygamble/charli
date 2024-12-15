@@ -30,12 +30,11 @@ collections:
           options: ["posts", "reviews", "interviews", "tours", "help"],
           default: ["posts"],
         }
-      - { label: "Featured Image", 
+      - {
+          label: "Featured Image",
           name: "thumbnail",
           widget: "image",
           choose_url: false,
-          media_library:
-            config:
-              multiple: false}
+        }
 
       - { label: "Post Body", name: "body", widget: "markdown" }
