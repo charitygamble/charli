@@ -19,7 +19,7 @@ collections:
         }
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Description", name: "description", widget: "string" }
-      - { label: "Date", name: "date", widget: "date", default: "" }
+      - { label: "Date", name: "date", widget: "datetime", default: "" }
       - { label: "Post Body", name: "body", widget: "markdown" }
   - name: "reviews" #The name of the collection and should match our posts.json file's tag
     label: "Reviews" #The name of the collection on the CMS itself
