@@ -33,9 +33,9 @@ collections:
       - { label: "Featured Image", 
           name: "thumbnail",
           widget: "image",
-          choose_url: true, 
+          choose_url: false,
           media_library:
             config:
-              multiple: false }
+              multiple: false}
 
       - { label: "Post Body", name: "body", widget: "markdown" }
