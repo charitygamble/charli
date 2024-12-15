@@ -12,7 +12,7 @@ module.exports = function(eleventyConfig) {
     });
 
     eleventyConfig.addCollection("reviews", async (collectionsApi) => {
-        return collectionsApi.getAll();
+        return collectionsApi.getFilteredByGlob("./src/blog/*.md").reverse().slice(0, 3);
     });
 
     return {
