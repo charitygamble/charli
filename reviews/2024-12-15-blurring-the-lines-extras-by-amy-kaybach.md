@@ -4,6 +4,7 @@ title: Blurring the Lines & Extras by Amy Kaybach
 description: Book Review of Amy Kaybach's "Blurring the Lines & Extras"
 date: 2024-07-15T22:11:00.000Z
 ---
+
 <section class="review__info">
 
 <img loading="lazy" src="src/assets/uploads/blurringthelines.webp" alt="Book Cover for Amy Kaybach's Blurring the Lines &amp; Extras" width="199" height="300" align="left">
@@ -43,4 +44,3 @@ date: 2024-07-15T22:11:00.000Z
 <p>The extras are the parts that will be spoilers for the Blind Rebels series. Like I said above, if you want to avoid spoilers, I recommend reading the series first or just reading Blurring the Lines and leaving the extras until later. The extras include events from other perspectives, events that don’t actually appear in the books, and in some cases, things that happened after the series was over. You’ll get to see some beloved characters dealing with things in new ways or just dealing with new experiences.</p>
 
 <p>I gave Blurring the Lines & Extras a solid five stars because it perfectly starts off the series and gives so much more to the series! I can’t wait to read the next series.</p>
-
