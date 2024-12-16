@@ -394,8 +394,8 @@ section,
   }
   
 .review__info {
-      border: .0625em solid var(clr-primary-500);
-      background-color: var(clr-primary-200);
+      border: .0625em solid var(--clr-primary-500);
+      background-color: var(--clr-primary-200);
       margin-bottom: 2.5em;
       min-height: 15.625em;
       padding-top: .9375em;
