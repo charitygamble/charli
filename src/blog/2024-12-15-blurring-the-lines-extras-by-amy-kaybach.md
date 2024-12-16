@@ -7,6 +7,7 @@ image: "/assets/uploads/blurringthelines.webp"
 tags:
   - posts
   - reviews
+thumbnail: assets/uploads/blurringthelines.webp
 ---
 
 <section class="review__info">
