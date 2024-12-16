@@ -3,13 +3,15 @@ layout: article.njk
 title: Blurring the Lines & Extras by Amy Kaybach
 description: Book Review of Amy Kaybach's "Blurring the Lines & Extras"
 date: 2024-07-15T18:04:00.000Z
+image: "/assets/uploads/blurringthelines.webp"
 tags:
   - posts
   - reviews
 ---
+
 <section class="review__info">
 
-<img loading="lazy" src="/assets/uploads/blurringthelines.webp" alt="Book Cover for Amy Kaybach's Blurring the Lines &amp; Extras" width="199" height="300" align="left">
+<img loading="lazy" class="book__cover" src="/assets/uploads/blurringthelines.webp" alt="Book Cover for Amy Kaybach's Blurring the Lines &amp; Extras" align="left">
 
 <strong>Book:</strong> <em>Blurring the Lines</em><br>
 <strong>Author:</strong> Amy Kaybach<br>

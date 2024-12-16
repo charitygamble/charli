@@ -408,3 +408,8 @@ section,
   margin-top: 2.5em;
   padding-top: 1.5em;
 }
+
+.book__cover {
+  height: 25%;
+  width: 25%;
+}
