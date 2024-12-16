@@ -407,6 +407,7 @@ section,
 .review__description {
   margin-top: 2.5em;
   padding-top: 1.5em;
+  padding-left: 1.5em;
 }
 
 .book__cover {
