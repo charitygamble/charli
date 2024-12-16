@@ -37,6 +37,7 @@ image: /assets/uploads/blurringthelines.webp
 <p><strong>Content Warning</strong>: Blurring the Lines is a novella meant for adult audiences. Content includes strong language, explicit sexual scenes, cheating, mention of drug and alcohol use, mention of overdose leading to death, and other mature situations.</p>
 
 </section>
+<blockquote>I received this book for free from Author to facilitate my review. This does not affect my opinion of the book or the content of my review.</blockquote>
 <p>Blurring the Lines & Extras is a prequel novella with some extra tidbits for the Blind Rebels series, all wrapped into one tidy little package. This book does contain spoilers for the Blind Rebels series, so if spoilers bother you, I recommend either reading the series first or stopping after Blurring the Lines and waiting to read the extras until after you’ve finished the Blind Rebels series.</p>
 
 <p>As a huge fan of the Blind Rebels series, I’d often wondered exactly how the events played out that led up to the Rebels’ hiatus. I knew it had to do with Mavrick, Callum, and Mavrick’s fiancee Becka, but I wasn’t sure how it had all played out. Now I know.</p>
