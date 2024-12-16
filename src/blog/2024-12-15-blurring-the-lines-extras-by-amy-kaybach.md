@@ -6,7 +6,7 @@ date: 2024-07-15T18:04:00.000Z
 tags:
   - posts
   - reviews
-image: assets/uploads/blurringthelines.webp
+image: /assets/uploads/blurringthelines.webp
 ---
 
 <section class="review__info">
