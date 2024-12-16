@@ -399,6 +399,7 @@ section,
       margin-bottom: 2.5em;
       min-height: 15.625em;
       padding-top: .9375em;
+      padding-left: .9375em;
       width: 87%;
       margin-left: 2.8125em;
       margin-top: 1.875em;
@@ -407,7 +408,6 @@ section,
 .review__description {
   margin-top: 2.5em;
   padding-top: 1.5em;
-  padding-left: 1.5em;
 }
 
 .book__cover {
